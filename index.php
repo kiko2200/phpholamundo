@@ -1,1 +1,1 @@
-<?PHP HEADER ("location:/HOLA.html") : ?>
+<?PHP HEADER ("location:/index.html") : ?>
